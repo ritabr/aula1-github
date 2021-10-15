@@ -47,5 +47,6 @@ public class ProgramException {
 		}
 
 		sc.close();
+		
 	}
 }
